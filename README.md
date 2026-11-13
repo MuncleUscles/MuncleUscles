@@ -1,1 +1,5 @@
-mergeproof-verify:0x4792558aD7176Fd802407f3A14cB28255E3B4287:nonce:702ea6de5e09
+Edgars Nemše. Chief executive of the GenLayer Foundation and a co-founder of GenLayer.
+
+Product person who still writes code. Most of it lives in [genlayerlabs](https://github.com/genlayerlabs): Studio, the JavaScript SDK, the CLI and the testing suite.
+
+[X](https://x.com/EdgarsNemse)
